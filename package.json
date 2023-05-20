@@ -1,8 +1,7 @@
 {
-    "name":"LM Random",
+    "name":"lm_random",
     "description": "Pseudo random number generator based on logistic map. Not safe, with short period",
     "version":"1.0.0",
-    "type": "module",
     "license":"MIT"
 
 }
